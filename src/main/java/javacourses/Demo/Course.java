@@ -12,6 +12,10 @@ public class Course {
 		this.description = description;
 	}
 	
+	public Course() {
+		// TODO Auto-generated constructor stub
+	}
+
 	/**
 	 * @return the id
 	 */
